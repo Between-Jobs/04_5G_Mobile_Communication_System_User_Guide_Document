@@ -64,7 +64,7 @@ You are encouraged to generate your own customized version of the guide using th
 
 You can download a sample version of the guide below:
 
-📥 [Download 4.5G MCS UG.pdf](./docs/4.5G%20MCS%20UG.pdf)
+📥 [Download 4.5G MCS UG.pdf](./Sample_04.5GMCSUG.pdf)
 
 ---
 
